@@ -1,0 +1,155 @@
+   <div class="section-title">
+          <h2 style="color: #fff;">Our approach</h2>
+        </div>
+
+          <p>Our company approach focuses on bringing a better user interface for our client’s business to
+meet the emerging business environments. We achieve this through our Three Phase Process</p>
+
+
+
+
+  <section id="" class="why-us" style="color: #fff;">
+      <div class="container" style="text-align: center;">
+        <div class="section-title">
+          <h2 style=" color: #fff;">Why Us</h2>
+        </div>
+          <p>Our-Compnay commenced business in 2016 after three years of designing and working
+  on a solution for its first client in South Africa. Our-Compnay is made up of
+  professionals with a good blend of financial and software expertise. Founders have a combined
+  experience of 28 years providing solutions to the financial services sector in Africa.</p>
+
+
+
+  <!-- ======= Our Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container" style="text-align: center;">
+      <div class="section-title">
+        <h2>Technology and Security</h2>
+      </div>
+
+        <p>Our-Compnay uses cloud based Microservices. Hosted on-premises or cloud scalable solution.
+          Driving highest business value through latest best in class technologies pinned by simplified
+          user-friendly approach adhering to Industry standards.</p>
+          <p>The client can be rest assured that the data is safe and secure in a state-of-the-art Data Centre
+            and compliant with relevant legislation.</p>
+        <div class="col-md-8 offset-md-2">
+          <img src="assets/img/quarkus_logo_vertical_rgb_1280px_default.png" class="rounded" width="100"  height="100" alt="...">
+          <img src="assets/img/java-logo-1.png" class="rounded " width="100"  height="100" alt="...">
+          <img src="assets/img/1561951216183.png" class="rounded " width="100"  height="100" alt="...">
+          <img src="assets/img/thumbnail-139148.png" class="rounded " width="100"  height="100" alt="...">
+        </div>
+       
+      </div>
+    </section><!-- End Our Team Section -->
+
+  
+  <div class="text-center"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Click here to request for Demo</button></div>
+ 
+  <div class="collapse" id="collapseExample">
+    <div class="col-lg-5 col-md-12">
+      <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+        <div class="form-group">
+          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+          <div class="validate"></div>
+        </div>
+        <div class="form-group">
+          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+          <div class="validate"></div>
+        </div>
+        <div class="form-group">
+          <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please tell us why you need a demo" placeholder="Message"></textarea>
+          <div class="validate"></div>
+        </div>
+        <div class="text-center"><button class="btn btn-info" type="submit">Send Request</button></div>
+      </form>
+    </div>
+  </div>
+      </div>
+    </section>
+    
+    
+    
+     <section id="faq" class="solutions">
+      <div class="wrapper">
+        <h1>Case Studies</h1>
+        <ul class="panels">
+          <div class="row">
+          <li class="col-md-4">
+            <div class="front" style="background: #203954">
+              <h6>Problem</h6>
+              <p>
+                An investment manager inherited an asset management business from a leading Pan-African
+bank with a view of modernizing the operation and scaling. Our-Compnay was approached to offer
+a cloud-based administration system which allowed clients, administrators and portfolio
+managers to have a full view of their portfolio from a portal.
+              </p>
+            </div>
+            <div class="back" style="background: #020a20">
+              <h6>Solution</h6>
+            <p>
+              Capitalizing on many years of experience in the financial services sector, Our-Compnay
+Associates offered an innovative end-to-end Investment Solution that utilized cloud-based
+technology to provide a functionally rich and versatile platform that supports the Front, Middle
+and Back Office requirements. That is, from trade execution, transaction processing, portfolio
+management reporting, compliance, and performance measurement. In 2020, the business has
+scaled considerably with minimal disruptions to operations. More so, they avoided downtime
+when lockdowns were implemented in 2020 since administrators could work from anywhere.
+            </p>
+            </div>
+          </li>
+          <li class="col-md-4">
+            <div class="front" style="background: #203954">
+              <h6>Problem</h6>
+              <p>
+                After succeeding in servicing its institutional client base, a business wanted to extend the
+current service to high-net-worth individuals. Our-Compnay was approached because the provider
+needed a technology partner to help them deliver a dynamic solution to meet the continuously
+evolving needs of their new market.
+              </p>
+            </div>
+            <div class="back" style="background: #020a20">
+              <h6>Solution</h6>
+              <p>
+                Our-Compnay designed a system that allowed the Relationship managers to focus on their clients
+rather than the administration processes. The solution allowed the manager to have a 360° view
+for clients’ and funds’ investments monitoring. Clients have 24/7 access to their portfolio
+investments through integrated web modules.
+              </p>
+            </div>
+          </li>
+          <li  class="col-md-4">
+            <div class="front" style="background: #203954">
+              <h6>Problem</h6>
+              <p>
+                An insurance company which offers regional funeral cover approached our company.
+Our-Compnay was approached to offer a cloud-based system which is easily accessible to clients
+when they want to pay premiums, seek insurance advice, and claim benefits. The accessibility
+was supposed to stretch across all communication platforms. Operationally, the system the
+provider also wanted a system that captured information from via a cloud-based portal whilst it
+allows it to gain customer insights through data analysis.
+              </p>
+            </div>
+            <div class="back" style="background: #020a20">
+            <h6>Solution</h6>
+              <p>Our-Compnay actuarial analysts initially interpreted client’s business and through our innovative
+                associates, we came up with a cloud-based system easily accessible to insurance company
+                users. We offered a partnership with the insurance company through providing a dynamic
+                technological solution. Our solution included good user interface for both the administrators and
+                the company’s clients. This came without compromising the useful data tools that will help the
+                insurer.</p>
+          </div>
+          </li>
+         
+        </div>
+        
+         
+        </ul>
+      </div>
+    </section>
+
+
+<a href="https://discord.gg/fk8WmcBq2D" class="linkedin"><i class="icofont-linkedin"></i></a>
+
+
+ <li><a href="#faq">Case Studies</a></li>
+          <li><a href="#team">Solutions</a></li>
